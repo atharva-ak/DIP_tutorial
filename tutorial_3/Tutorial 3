@@ -1,0 +1,4 @@
+Q1. Take a image, find it's DFT (frequency transform and maganitude).
+Q2. Remove the low frequencies(HPF) for above image and generate image again through inverse DFT.
+Q3. Perform DWT over given image and find different detailed structures. (Study PyWavelets library)
+Q4. Using KLT algorithm, (a) Observe features which are useful (b) Track motion of moving body from video.
