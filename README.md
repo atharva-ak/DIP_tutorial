@@ -1,3 +1,3 @@
 # DIP_tutorial
 
-https://github.com/atharvakadethankar/DIP_tutorial.git
+https://github.com/atharva-ak/DIP_tutorial/
